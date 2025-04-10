@@ -1,0 +1,5 @@
+{
+  "name": "telegram/bot",
+  "description": "Telegram Bot on Render",
+  "require": {}
+}
