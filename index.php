@@ -183,4 +183,3 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
 } else {
     echo "Bot is live. Set your webhook to: https://your-render-url.onrender.com/";
 }
->? 
